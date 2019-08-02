@@ -1,0 +1,9 @@
+MIDlet-1: IdenMIDlet, , main.IdenMIDlet
+MIDlet-Jar-Size: 245402
+MIDlet-Jar-URL: TrackIt.jar
+MIDlet-Name: TrackIt
+MIDlet-Permissions: javax.microedition.io.Connector.datagram, javax.microedition.location.Location, javax.microedition.io.Connector.file.read, javax.microedition.io.Connector.file.write
+MIDlet-Vendor: Motorola, Inc.
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
